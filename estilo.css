@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+}
+a link{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+.uno{
+    width: 100px;
+    height: 100px;
+    text-decoration: none;
+    background: brown;
+    cursor: pointer;
+}
+.dos{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    background:blueviolet;
+}
+
+.tres{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    background: rgb(42, 165, 44);
+}
+.colorFondo{
+    text-decoration: none;
+}
